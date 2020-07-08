@@ -22,7 +22,7 @@
 Bala Hantsi
 Dante Chakravorti
 - Austin Clements (https://github.com/austinclem1)
-- [Shreyas Dodamani](https://github.com/shreyasdoda)
+- [Shreyas Dodamani](https://github.com/ShreyasTheOne)
 - Ijeoma Emeruwa (https://github.com/ijeomaemeruwa)
 - [nouvelle](https://github.com/nouvelle)
 - [Shakeib Shaida] (https://github.com/shakeib98)
